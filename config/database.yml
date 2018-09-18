@@ -33,7 +33,6 @@ production:
   pool: 5
   username: lvpupfbolyijzl
   password: d3b7111043510461f0e389c544fce564c4d27ba3278af282f160975885fed5af
-  hostname: ec2-54-225-24
-1-25.compute-1.amazonaws.com
+  hostname: ec2-54-225-241-25.compute-1.amazonaws.com
   port: 5432
   database: df8vgrv4tsr8ea
