@@ -28,4 +28,6 @@ test:
 
 production:
   <<: *default
-  database: tweetapp
+  dapter: postgresql
+  encoding: unicode
+  pool: 5
