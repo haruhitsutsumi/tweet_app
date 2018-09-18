@@ -6,6 +6,11 @@
 #
 default: &default
   adapter: postgresql
+  host: localhost
+  encoding: utf8
+  database: tweetapp
+  username: postgres
+  password: haruhi504
   pool: 5
   timeout: 5000
 
